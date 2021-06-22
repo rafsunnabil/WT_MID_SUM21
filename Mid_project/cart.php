@@ -1,0 +1,29 @@
+<html>
+	<head>
+		<title>Category</title>
+		</head>
+		<body>
+			<fieldset>
+				<h1>Category</h1>
+					<form>
+						<tr>
+							<td align="right"><b> Category - </b></td>
+							<td>
+								<select>
+								<option>Select a Category</option>
+								<option>Burger</option>
+								<option>Pizza</option>
+								<option>Soup</option>
+								<option>Pasta</option>
+								<option>Snacks</option>
+								<option>Ricemeals</option>
+								<option>Adds-on</option>
+								</select><br>
+								</td>
+						</tr>
+					</form>
+				</table>
+			</form>
+		</fieldset>
+	</body>
+</html>
